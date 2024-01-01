@@ -1,8 +1,9 @@
-# Weather Web Application
+# Weather Application
 
-Welcome to the Weather Web Application! This application provides real-time weather information based on user input or location detection.
+Welcome to the Weather Web Application! This application provides real-time weather information based on user input.
 
 ## Table of Contents
+
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -15,10 +16,9 @@ Welcome to the Weather Web Application! This application provides real-time weat
 ## Features
 
 - Current weather information display
-- 5-day weather forecast
 - Location-based weather data
 - Responsive design for various devices
-- Intuitive user interface
+- Intuitive and Simple user interface
 
 ## Getting Started
 
@@ -46,9 +46,9 @@ Make sure you have the following installed on your machine:
 
 ## Usage
 
-- Enter the city name or allow the application to access your location.
-- View the current weather details and 5-day forecast.
-- Explore different features and enjoy the responsive design.
+- Enter the city name to access your location.
+- View the current weather details.
+- Explore different features and enjoy the simple design.
 
 ## Technologies Used
 
