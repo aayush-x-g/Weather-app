@@ -33,7 +33,7 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/weather-app.git
+    git clone https://github.com/aayush-x-g/weather-app.git
     ```
 
 2. Open the `index.html` file in your preferred web browser.
